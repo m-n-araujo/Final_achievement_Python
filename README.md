@@ -18,3 +18,16 @@ Explore sales by customers, geography, and any other interesting variable
 
 Link to Tableau Publick with findings of the exercise:
 https://public.tableau.com/app/profile/martin2901/viz/Creating_Data_Dashboards_Martin_Araujo/Dashboard?publish=yes
+
+Jupyter Notebook and Python libraries where used for:
+- Data wrangling
+- Data merging
+- Deriving variables
+- Aggregating data
+- Exploratory analysis
+- Geospatial analysis
+- Correlation analysis
+- Regression analysis
+- Clustering analysis
+- Time series analysis
+
